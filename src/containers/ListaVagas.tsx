@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import styled from 'styled-components'
-import FormVagas from '../../components/FormVagas'
+import FormVagas from '../components/FormVagas'
 
-import Vaga from '../../components/Vaga'
+import Vaga from '../components/Vaga'
 
 const ListaVagasStyle = styled.ul`
   display: grid;
